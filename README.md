@@ -4,9 +4,7 @@
 - 🌱 I used to study at Ho Chi Minh Open University
 - 🔭 I’m currently working on [Quy Nhon AI](https://quynhon.ai/) as a Machine Learning engineer - NLP
 - ⚡ Fun fact: I'm beginner on NLP.
-<!-- - 👯 I’m looking to collaborate on ... -->
-<!-- - 🤔 I’m looking for help with ... -->
-<!-- - 💬 Ask me about ... -->
+- 
 <h3 align="left">Languages & Tools:</h3>
 
 <p align="left">
@@ -24,4 +22,12 @@
   <a href="mailto:nam.nd.00@gmail.com"> <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
      </a>
 </p>
+
+<h3>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nam-nd-d3&layout=compact&hide=html&theme=onedark" alt="nam-nd-d3" />
+</h3>
+<br />
+<h3>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=nam-nd-d3&show_icons=true&theme=onedark" alt="nam-nd-d3" />
+</h3>
 
