@@ -4,7 +4,7 @@
 - 🌱 I used to study at Ho Chi Minh Open University
 - 🔭 I’m currently working on [Quy Nhon AI](https://quynhon.ai/) as a Machine Learning engineer
 - ⚡ My domains: Computer vision, Natural language processing and MLOps.
-- 
+
 <h3 align="left">Languages & Tools:</h3>
 
 <p align="left">
