@@ -2,8 +2,8 @@
 <h3>About Me</h3>
 
 - 🌱 I used to study at Ho Chi Minh Open University
-- 🔭 I’m currently working on [Quy Nhon AI](https://quynhon.ai/) as a Machine Learning engineer - NLP
-- ⚡ Fun fact: I'm beginner on NLP.
+- 🔭 I’m currently working on [Quy Nhon AI](https://quynhon.ai/) as a Machine Learning engineer
+- ⚡ My domain: Computer Vision, Natural language processing and MLOps.
 - 
 <h3 align="left">Languages & Tools:</h3>
 
