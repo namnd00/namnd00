@@ -26,6 +26,7 @@
 <h3>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namnd00&layout=compact&hide=html&theme=onedark" alt="nam-nd-d3" />
 </h3>
+</br>
 <h3>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=namnd00&show_icons=true&theme=onedark" alt="nam-nd-d3" />
 </h3>
