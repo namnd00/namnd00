@@ -23,11 +23,9 @@
   <a href="mailto:nam.nd.00@gmail.com"> <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
      </a>
 </p>
-<br>
 <h3>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namnd00&layout=compact&hide=html&theme=onedark" alt="nam-nd-d3" />
 </h3>
-<br />
 <h3>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=namnd00&show_icons=true&theme=onedark" alt="nam-nd-d3" />
 </h3>
