@@ -19,17 +19,16 @@
 <h3>Contact</h3>
 <p>
 <p>
-  <a href="https://twitter.com/NguyenN10060376" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
-  <a href="https://www.linkedin.com/in/nguyen-nam-0a9b0721a/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/namnd00/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:nam.nd.00@gmail.com"> <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
      </a>
 </p>
 
 <h3>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nam-nd-d3&layout=compact&hide=html&theme=onedark" alt="nam-nd-d3" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namnd00&layout=compact&hide=html&theme=onedark" alt="nam-nd-d3" />
 </h3>
 <br />
 <h3>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=nam-nd-d3&show_icons=true&theme=onedark" alt="nam-nd-d3" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=namnd00&show_icons=true&theme=onedark" alt="nam-nd-d3" />
 </h3>
 
