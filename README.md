@@ -3,7 +3,7 @@
 
 - 🌱 I used to study at Ho Chi Minh Open University
 - 🔭 I’m currently working on [Quy Nhon AI](https://quynhon.ai/) as a Machine Learning engineer
-- ⚡ My domains: MLOps Engineer, Python Backend Engineer.
+- ⚡ My domains: MLOps, Python, Web Backend, Kubernetes, Application Container.
 
 <h3 align="left">Languages & Tools:</h3>
 
