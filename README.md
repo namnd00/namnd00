@@ -1,9 +1,11 @@
 ### Hi there 👋
 <h3>About Me</h3>
 
-- 🌱 I used to study at Ho Chi Minh Open University
-- 🔭 I’m currently working on [Quy Nhon AI](https://quynhon.ai/) as a Machine Learning engineer
-- ⚡ My domains: MLOps, Python, Web Backend, Kubernetes, Application Container.
+🌱 As a Junior Machine Learning engineer, I hold limited experience in constructing and executing machine learning systems and pipelines. My proficiency is not limited to a single industry; rather, it spans various sectors, providing me with the ability to innovate solutions for intricate problems. Key areas of my skill set include Machine Learning Pipelines, Machine Learning Systems, Kubernetes, and Kubeflow.
+
+🔭 I harbor a fervent passion for staying abreast with the dynamic trends and technological advancements in the industry. This motivates me to continually learn, adapt, and implement new skills. My commitment lies in leveraging my knowledge to generate value for my clients, aiding them in meeting their business goals effectively.
+
+⚡ My main skills: MLOps, Python, Kubernetes, Application Container.
 
 <h3 align="left">Languages & Tools:</h3>
 
@@ -30,4 +32,3 @@
 <h3>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=namnd00&show_icons=true&theme=onedark" alt="nam-nd-d3" />
 </h3>
-
