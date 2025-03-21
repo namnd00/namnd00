@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nam Nguyen</h1>
-<h3 align="center">I am a Machine Learning Engineer at FPT Software, where I create scalable and robust machine learning systems and pipelines for various clients and industries. I leverage my expertise in MLOps, AI, and Cloud technologies to deploy and orchestrate multiple on-premise and cloud-based applications and models, using AWS, Kubernetes, and Kubeflow. I built, optimized, and led an AI team to deliver AI solutions to customers' environments on various problems: NLP, CV, and IoT.</h3>
+<h3 align="center">I am a AI Engineer at FPT Software where I built, optimized, and led an AI team to deliver AI solutions to customers' environments on various problems: NLP, CV, and IoT.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=namnd00&label=Profile%20views&color=0e75b6&style=flat" alt="namnd00" /> </p>
 
 - 🔭 I’m currently working on **FPT Software Quy Nhon**
 
-- 🌱 I’m currently learning **LangChain, MLOps**
+- 🌱 I’m currently learning **RAG, AI Agent**
 
 - 📫 How to reach me **nam.nd.00@gmail.com**
 
