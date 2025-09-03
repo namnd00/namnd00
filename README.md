@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nam Nguyen</h1>
-<h3 align="center">I am Senior AI Engineer where I built, optimized, and led an AI team to deliver AI solutions to customers' environments on various problems: LLM, AI Agent, CV.</h3>
+1<h1 align="center">Hi 👋, I'm Nam Nguyen</h1>
+<h3 align="center">I am Senior AI Engineer where I built, optimized, and led an AI team to deliver AI solutions to customers' environments on various problems: LLM, AI Agent, MLOps, Computer Vision.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=namnd00&label=Profile%20views&color=0e75b6&style=flat" alt="namnd00" /> </p>
 
