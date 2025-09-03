@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nam Nguyen</h1>
-<h3 align="center">I am a AI Engineer at FPT Software where I built, optimized, and led an AI team to deliver AI solutions to customers' environments on various problems: NLP, CV, and IoT.</h3>
+<h3 align="center">I am Senior AI Engineer where I built, optimized, and led an AI team to deliver AI solutions to customers' environments on various problems: LLM, AI Agent, CV.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=namnd00&label=Profile%20views&color=0e75b6&style=flat" alt="namnd00" /> </p>
 
-- 🔭 I’m currently working on **FPT Software Quy Nhon**
+- 🔭 I’m currently working on **Success So**
 
-- 🌱 I’m currently learning **RAG, AI Agent**
+- 🌱 I’m currently developing **RAG, LLM, AI Agent, Agentic Chatbot, MCP Server**
 
 - 📫 How to reach me **nam.nd.00@gmail.com**
 
