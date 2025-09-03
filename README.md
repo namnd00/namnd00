@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=namnd00&label=Profile%20views&color=0e75b6&style=flat" alt="namnd00" /> </p>
 
-- 🔭 I’m currently working on **Success So**
+- 🔭 I’m currently working on **Success Software Services**
 
 - 🌱 I’m currently developing **RAG, LLM, AI Agent, Agentic Chatbot, MCP Server**
 
