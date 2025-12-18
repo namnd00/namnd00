@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Success Software Services**
 
-- 🌱 I’m currently developing **RAG, LLM, AI Agent, Agentic Chatbot, MCP Server**
+- 🌱 I’m currently developing **Computer Vision AI System, RAG, LLM, AI Agent, MCP Servers**
 
 - 📫 How to reach me **nam.nd.00@gmail.com**
 
