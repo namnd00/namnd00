@@ -1,24 +1,46 @@
-<h1 align="center">Hi 👋, I'm Nam Nguyen</h1>
-<h3 align="center">I am Senior AI Engineer where I built, optimized, and led an AI team to deliver AI solutions to customers' environments on various problems: LLM, AI Agent, MLOps, Computer Vision.</h3>
+<h1 align="center">Nam Nguyen</h1>
+<h3 align="center">Senior AI Engineer (MLOps / AI-Ops) — production AI systems (CV, NLP, GenAI)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=namnd00&label=Profile%20views&color=0e75b6&style=flat" alt="namnd00" /> </p>
-
-- 🔭 I’m currently working on **Success Software Services**
-
-- 🌱 I’m currently developing **Computer Vision AI System, RAG, LLM, AI Agent, MCP Servers**
-
-- 📫 How to reach me **nam.nd.00@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/namnd00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/namnd00" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/namnd00/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/namnd00/" height="30" width="40" /></a>
-<a href="https://kaggle.com/namndios" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/namndios" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://namnd00.github.io/ai-portfolio"><b>Portfolio</b></a>
+  · <a href="https://linkedin.com/in/namnd00"><b>LinkedIn</b></a>
+  · <a href="https://github.com/namnd00"><b>GitHub</b></a>
+  · <a href="mailto:nam.nd.00@gmail.com"><b>Email</b></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=namnd00&label=Profile%20views&color=0e75b6&style=flat" alt="namnd00" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=namnd00&show_icons=true&locale=en&layout=compact" alt="namnd00" /></p>
+<h3>What I do</h3>
+<ul>
+  <li><b>Build end-to-end AI systems</b>: data → model → deployment → monitoring → continuous improvement</li>
+  <li><b>AI infrastructure & reliability</b>: event-driven microservices, queues/streams, idempotency/DLQ, observability</li>
+  <li><b>Real-time / edge AI</b>: GPU/edge inference optimization (Jetson, TensorRT/ONNX Runtime), latency-driven design</li>
+</ul>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=namnd00&show_icons=true&locale=en" alt="namnd00" /></p>
+<h3>Focus areas</h3>
+<ul>
+  <li><b>MLOps / AI-Ops</b>: deployment automation, monitoring/alerting, capacity planning, operational debugging</li>
+  <li><b>Computer Vision</b>: detection, tracking, ReID, multi-camera analytics, document OCR</li>
+  <li><b>NLP / GenAI</b>: multi-turn conversational AI, RAG, agentic workflows</li>
+</ul>
+
+<h3>Core stack (hands-on)</h3>
+<ul>
+  <li><b>Languages</b>: Python, Bash</li>
+  <li><b>AI/ML</b>: PyTorch, OpenCV, Hugging Face Transformers</li>
+  <li><b>Serving/Edge</b>: NVIDIA Triton, TensorRT, ONNX Runtime, Jetson</li>
+  <li><b>Infra</b>: Kubernetes (CKA/CKAD), Docker, Prometheus, Grafana</li>
+  <li><b>Data/Messaging</b>: Kafka, RabbitMQ, Redis, PostgreSQL</li>
+</ul>
+
+<details>
+  <summary><b>GitHub stats</b></summary>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=namnd00&show_icons=true&locale=en&layout=compact" alt="namnd00" />
+  </p>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=namnd00&show_icons=true&locale=en" alt="namnd00" />
+  </p>
+</details>
