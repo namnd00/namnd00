@@ -1,8 +1,8 @@
 # Hi, I'm Nam 👋
 
-**Indie maker in Ho Chi Minh City. I build and ship small AI products: iOS apps, and AI agents that do real work for small businesses.**
+**Senior Applied AI Engineer and indie maker in Ho Chi Minh City. I build and ship small AI products: iOS apps, and AI agents that do real work for small businesses.**
 
-I spent 4+ years as an AI / MLOps engineer putting computer vision, NLP and LLM systems into production. Now I build whole products: the idea, the app, the backend, the App Store release and the day-to-day running.
+By day I build large-scale AI systems at Vinsmart Future. On the side I build whole products: the idea, the app, the backend, the App Store release and the day-to-day running.
 
 ## Shipping now
 
@@ -21,7 +21,13 @@ I spent 4+ years as an AI / MLOps engineer putting computer vision, NLP and LLM 
 
 ## Background
 
-Before building my own products I designed and ran production AI systems: event-driven platforms with GPU inference, multi-camera retail analytics, conversational AI for sales, edge AI for smart driving, and document OCR. Full résumé: **[portfolio](https://namnd00.github.io/ai-portfolio)**.
+5+ years taking AI systems from POC to production:
+
+- **Vinsmart Future** (2026–now): a multi-agent platform that wrote 350,000+ encyclopedia articles in two weeks, a healthcare AI assistant for 5,000+ active users, and memory infrastructure handling ~10M ingestion requests per hour
+- **Success Software Services** (2025–2026): self-hosted agentic conversational AI, event-driven AI platforms, multi-camera retail analytics
+- **FPT Software** (2021–2025): edge AI for smart driving, call-center MLOps, document OCR
+
+Full résumé: **[portfolio](https://namnd00.github.io/ai-portfolio)**.
 
 ## Get in touch
 
