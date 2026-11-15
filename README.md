@@ -1,46 +1,28 @@
-<h1 align="center">Nam Nguyen</h1>
-<h3 align="center">Senior AI Engineer (MLOps / AI-Ops) — production AI systems (CV, NLP, GenAI)</h3>
+# Hi, I'm Nam 👋
 
-<p align="center">
-  <a href="https://namnd00.github.io/ai-portfolio"><b>Portfolio</b></a>
-  · <a href="https://linkedin.com/in/namnd00"><b>LinkedIn</b></a>
-  · <a href="https://github.com/namnd00"><b>GitHub</b></a>
-  · <a href="mailto:nam.nd.00@gmail.com"><b>Email</b></a>
-</p>
+**Indie maker in Ho Chi Minh City. I build and ship small AI products for Vietnamese users: iOS apps, and AI agents that do real work for small businesses.**
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=namnd00&label=Profile%20views&color=0e75b6&style=flat" alt="namnd00" />
-</p>
+I spent 4+ years as an AI / MLOps engineer putting computer vision, NLP and LLM systems into production. Now I build whole products: the idea, the app, the backend, the App Store release and the day-to-day running.
 
-<h3>What I do</h3>
-<ul>
-  <li><b>Build end-to-end AI systems</b>: data → model → deployment → monitoring → continuous improvement</li>
-  <li><b>AI infrastructure & reliability</b>: event-driven microservices, queues/streams, idempotency/DLQ, observability</li>
-  <li><b>Real-time / edge AI</b>: GPU/edge inference optimization (Jetson, TensorRT/ONNX Runtime), latency-driven design</li>
-</ul>
+## Shipping now
 
-<h3>Focus areas</h3>
-<ul>
-  <li><b>MLOps / AI-Ops</b>: deployment automation, monitoring/alerting, capacity planning, operational debugging</li>
-  <li><b>Computer Vision</b>: detection, tracking, ReID, multi-camera analytics, document OCR</li>
-  <li><b>NLP / GenAI</b>: multi-turn conversational AI, RAG, agentic workflows</li>
-</ul>
+| Product | What it does | Status |
+|---|---|---|
+| **[Luận Giải](https://apps.apple.com/vn/app/id6831949262)** | Tử Vi (Vietnamese astrology) for iPhone: draw your chart on a 3D board, read palace-by-palace interpretations, and listen to them as a narrated podcast. | Live on the App Store · [web version](https://luangiai.phyra.org) |
+| **[Zentic Shop](https://zentic.app)** | An AI sales assistant for small shops on Zalo. It answers customers using the shop's own products and prices, writes down who wants what, and lets the owner confirm every order. | Live · free trial |
 
-<h3>Core stack (hands-on)</h3>
-<ul>
-  <li><b>Languages</b>: Python, Bash</li>
-  <li><b>AI/ML</b>: PyTorch, OpenCV, Hugging Face Transformers</li>
-  <li><b>Serving/Edge</b>: NVIDIA Triton, TensorRT, ONNX Runtime, Jetson</li>
-  <li><b>Infra</b>: Kubernetes (CKA/CKAD), Docker, Prometheus, Grafana</li>
-  <li><b>Data/Messaging</b>: Kafka, RabbitMQ, Redis, PostgreSQL</li>
-</ul>
+## How I build
 
-<details>
-  <summary><b>GitHub stats</b></summary>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=namnd00&show_icons=true&locale=en&layout=compact" alt="namnd00" />
-  </p>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=namnd00&show_icons=true&locale=en" alt="namnd00" />
-  </p>
-</details>
+- **iOS**: Swift, SwiftUI, StoreKit 2, Sign in with Apple, widgets
+- **Backend**: Cloudflare Workers, D1, R2, Queues; Go services when a product needs its own servers
+- **AI**: LLM agents with guardrails, retrieval over curated knowledge bases, text-to-speech pipelines
+- **Shipping & ops**: CI/CD, App Store Connect automation, Sentry, latency and AI-cost tracking for every request
+- **ML background**: PyTorch, OpenCV, Hugging Face, NVIDIA Triton / TensorRT, Kafka, Kubernetes (CKA / CKAD)
+
+## Background
+
+Before building my own products I designed and ran production AI systems: event-driven platforms with GPU inference, multi-camera retail analytics, conversational AI for sales, edge AI for smart driving, and document OCR. Full résumé: **[portfolio](https://namnd00.github.io/ai-portfolio)**.
+
+## Get in touch
+
+[LinkedIn](https://linkedin.com/in/namnd00) · [Email](mailto:nam.nd.00@gmail.com) · [Portfolio](https://namnd00.github.io/ai-portfolio)
