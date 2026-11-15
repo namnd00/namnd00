@@ -1,6 +1,6 @@
 # Hi, I'm Nam 👋
 
-**Indie maker in Ho Chi Minh City. I build and ship small AI products for Vietnamese users: iOS apps, and AI agents that do real work for small businesses.**
+**Indie maker in Ho Chi Minh City. I build and ship small AI products: iOS apps, and AI agents that do real work for small businesses.**
 
 I spent 4+ years as an AI / MLOps engineer putting computer vision, NLP and LLM systems into production. Now I build whole products: the idea, the app, the backend, the App Store release and the day-to-day running.
 
